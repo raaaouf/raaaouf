@@ -9,10 +9,12 @@
 
 🌱 Currently working, learning and growing my skillset in maching learning, mathematics, data structures and algorithms 💻, and hopping to develop my skills.
 
-p.s : I really really love films 🎥. 
+   p.s : I really really love films 🎥. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=raaaouf.raaaouf)
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="53%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### ⚡ Technologies
 Talk to me about
@@ -20,8 +22,6 @@ Talk to me about
 - UI/UX, Front-end.  -**Bootstrap,Adobe XD**
 - Statistics, Data Analysis.  -**R**
 - Database.  -**Sql**
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
