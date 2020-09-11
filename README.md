@@ -43,7 +43,7 @@ Talk to me about
 <p align = "center">
  
 <!-- [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://user.github.io/) -->
-<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/user/) -->
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abderraouf-zoghbi-936a181b6/) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@raaaaouf)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/raaaaaouf/)
 <a href="https://github.com/raaaouf" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=blue" /></a>
