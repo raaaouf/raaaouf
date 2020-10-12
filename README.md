@@ -19,6 +19,7 @@
 ### ⚡ Technologies
 Talk to me about
 - Data Science & ML. -**Python🐍,Tensorflow,Scikit-Learn**
+- Desktop. -**Python🐍,Java☕️**
 - UI/UX, Front-end.  -**Bootstrap,Adobe XD**
 - Statistics, Data Analysis.  -**R**
 - Database.  -**Sql**
