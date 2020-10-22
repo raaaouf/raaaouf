@@ -52,10 +52,6 @@ Talk to me about
 
 </p>
 
-###  📝 License
-
-Copyright © 2020 [Zoghbi Abderaouf](https://github.com/raaaouf).<br />
-This project is MIT licensed.
 
 ---
 _This README was created on 🌎 with ❤️ by [Human](https://github.com/raaaouf)_
