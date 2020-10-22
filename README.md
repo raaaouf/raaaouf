@@ -14,7 +14,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=raaaouf.raaaouf)
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="53%" align="right" alt="Github" src="https://github.com/raaaouf/developerFolio/blob/master/src/assets/images/manOnTable.svg" />
+<img width="43%" align="right" alt="Github" src="https://github.com/raaaouf/developerFolio/blob/master/src/assets/images/manOnTable.svg" />
 
 ### 🚀 Technologies
 Talk to me about
