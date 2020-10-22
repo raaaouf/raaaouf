@@ -5,7 +5,7 @@
 </p>
 
 ---
-✨ Data Science & ML Enthusiast | Computer Science Student | Content writer.✨
+💡 Data Science & ML Enthusiast | Computer Science Student | Content writer.✨
 
 🌱 Passionate about AI Tech, currently learning and growing my skillset in maching learning, mathematics, data structures and algorithms 💻, UI/UX ❤, front dev 🌎.
 
@@ -25,7 +25,7 @@ Talk to me about
 - Desktop. -**Python🐍,Java☕️**
 - UI/UX, Front-end. -**Html,Css,JavaScript,Bootstrap,Adobe XD**
 - Statistics, Data Analysis.  -**R**
-- Database.  -**Sql**
+- Database.  -**Sql, Oracle**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
