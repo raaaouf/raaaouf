@@ -7,7 +7,7 @@
 ---
 ✨ Data Science & ML Enthusiast | Computer Science Student | Content writer.✨
 
-🌱 Passionate about AI Tech, currently working, learning and growing my skillset in maching learning, mathematics, data structures and algorithms 💻, and hopping to develop my skills.
+🌱 Passionate about AI Tech, currently learning and growing my skillset in maching learning, mathematics, data structures and algorithms 💻, UI/UX ❤, front dev 🌎.
 
  📍 Based in Annaba,Algeria. 
 
