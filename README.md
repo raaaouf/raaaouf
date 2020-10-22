@@ -7,7 +7,7 @@
 ---
 💡 Data Science & ML Enthusiast | Computer Science Student | Content writer.✨
 
-🌱 Passionate about AI Tech, currently learning and growing my skillset in maching learning, mathematics, data structures and algorithms 💻, UI/UX ❤, front dev 🌎.
+🌱 Passionate about AI Tech, currently learning and growing my skillset in maching learning📈, mathematics, data structures and algorithms 💻, UI/UX ❤, front dev 🌎.
 
  📍 Based in Annaba,Algeria. 
 
@@ -24,7 +24,7 @@ Talk to me about
 - Data Science & ML. -**Python🐍,Tensorflow,Scikit-Learn**
 - Desktop. -**Java☕️**
 - UI/UX, Front-end. -**Html,Css,JavaScript,Bootstrap,Adobe XD**
-- Statistics, Data Analysis.  -**R**
+- Statistics, Data Analysis.  -**R📈**
 - Database.  -**Sql, Oracle**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
