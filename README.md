@@ -20,12 +20,11 @@
 Talk to me about
 - Data Science & ML. -**Python🐍,Tensorflow,Scikit-Learn**
 - Desktop. -**Python🐍,Java☕️**
-- UI/UX, Front-end.  -**Html,Css,JavaScript,Bootstrap,Adobe XD**
+- UI/UX, Front-end. -**Html,Css,JavaScript,Bootstrap,Adobe XD**
 - Statistics, Data Analysis.  -**R**
 - Database.  -**Sql**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -52,9 +51,10 @@ Talk to me about
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/rvouf) 
 
 </p>
+---
 
-
-<!-- This readme was created by Zoghbi Abderraouf - https://github.com/raaaouf -->
+_This README was created on 🌎 with ❤️ by [Human](https://github.com/raaaouf)_
+<!-- This readme was created by Zoghbi Abderraouf -->
 <!--
 
 Here are some ideas to get you started:
