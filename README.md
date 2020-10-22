@@ -5,11 +5,14 @@
 </p>
 
 ---
-✨ I’m a Computer Science Student, Data Science Enthusiast and a UI/UX Freelancer :blue_heart:, based in Annaba,Algeria. I am a beginner in the field of Data Science & ML and passionate about AI Tech, and actively looking for opportunities in Data Science and meet my goals. 
+✨ Data Science & ML Enthusiast | Computer Science Student | Content writer.✨
 
-🌱 Currently working, learning and growing my skillset in maching learning, mathematics, data structures and algorithms 💻, and hopping to develop my skills.
+🌱 Passionate about AI Tech, currently working, learning and growing my skillset in maching learning, mathematics, data structures and algorithms 💻, and hopping to develop my skills.
 
-   ⚡ p.s : I really really love films 🎥. 
+ 📍 Based in Annaba,Algeria. 
+
+    ⚡ p.s : I really really love films 🎥. 
+    
 
 ![](https://visitor-badge.glitch.me/badge?page_id=raaaouf.raaaouf)
 
