@@ -11,16 +11,13 @@
 
  📍 Based in Annaba,Algeria. 
 
-    ⚡ p.s : I really really love films 🎥. 
-    
-
 ![](https://visitor-badge.glitch.me/badge?page_id=raaaouf.raaaouf)
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="43%" align="right" alt="Github" src="https://github.com/raaaouf/developerFolio/blob/master/src/assets/images/manOnTable.svg" />
 
 ### 🚀 Technologies
-Talk to me about
+
 - Data Science & ML. -**Python🐍,Tensorflow,Scikit-Learn**
 - Desktop. -**Java☕️**
 - UI/UX, Front-end. -**Html,Css,JavaScript,Bootstrap,Adobe XD**
@@ -36,11 +33,10 @@ Talk to me about
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <details open> 
- <summary><b> Checkout my latest Medium articles</b> :bookmark_tabs:</summary>
  
+ <summary><b> Checkout my latest Medium articles</b> :bookmark_tabs:</summary>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raaaaouf/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raaaaouf/0" alt="Recent Article 0"></a>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raaaaouf/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raaaaouf/1" alt="Recent Article 1"></a>
-
 </details>
 
 ###  📫 How to reach me:
