@@ -5,9 +5,9 @@
 </p>
 
 ---
-💡 Data Science & ML Enthusiast | Computer Science Student | Content writer.✨
+### 💡 Data Science & ML Enthusiast | Computer Science Student | Content writer.✨
 
-🌱 Passionate about AI Tech, currently learning and growing my skillset in maching learning📈, mathematics, data structures and algorithms 💻, UI/UX ❤, front dev 🌎.
+🌱 Passionate about AI Tech, currently learning and growing my skillset in maching learning📈, computational neuroscience,statistics, data structures and algorithms 💻, UI/UX ❤, front dev 🌎.
 
  📍 Based in Annaba,Algeria. 
 
