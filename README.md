@@ -36,14 +36,6 @@
 
  <!--[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=raaaouf)](https://github.com/LordDashMe/github-contribution-stats/)-->
 
-<details open>
- 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raaaaouf/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raaaaouf/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raaaaouf/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raaaaouf/2" alt="Recent Article 2"> 
-
- 
-</details>
 
 ###  📫 How to reach me:
 <p align = "center">
