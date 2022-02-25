@@ -12,15 +12,15 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=raaaouf.raaaouf)
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="43%" align="right" alt="Github" src="https://github.com/raaaouf/developerFolio/blob/master/src/assets/images/manOnTable.svg" />
+<img width="43%" align="right" alt="Github" src="https://user-images.githubusercontent.com/29804103/136192963-8a233c54-2db4-40b8-ae54-02387e083354.png" />
 
 ### 🚀 Technologies
 
 - Data Science & ML. -**Python🐍,Tensorflow,Scikit-Learn**
 - Desktop. -**Java☕️**
 - UI/UX, Front-end. -**Html,Css,JavaScript,Bootstrap,Adobe XD**
-- Statistics, Data Analysis.  -**R📈**
-- Database.  -**Sql, Oracle**
+- DATAWARHOUSING, Data Analysis.  -**R📈, BI Tools, ETLS, DATAVIZ**
+- Database.  -**Sql, Oracle, POSTGRESql, **
 - Android : -**Flutter** 🔥
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
